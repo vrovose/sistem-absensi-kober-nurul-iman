@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi dan Kehadiran KOBER Nurul Iman",
+  "description": "Sistem administrasi dan presensi harian siswa dan dewan guru KOBER Nurul Iman Kota Bandung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
